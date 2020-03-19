@@ -1,5 +1,5 @@
 {
-    "name": "confrariaweb/laravel-crm",
+    "name": "meridienclube/laravel-crm",
     "version": "dev-master",
     "description": "Motor para todos os componentes",
     "keywords": [
@@ -16,11 +16,11 @@
         }
     ],
     "require": {
-        "confrariaweb/laravel-entrust": "dev-master",
-        "confrariaweb/laravel-historic": "dev-master",
-        "confrariaweb/laravel-option": "dev-master",
-        "confrariaweb/laravel-user": "dev-master",
-        "confrariaweb/laravel-vendor": "dev-master"
+        "meridienclube/laravel-entrust": "dev-master",
+        "meridienclube/laravel-historic": "dev-master",
+        "meridienclube/laravel-option": "dev-master",
+        "meridienclube/laravel-user": "dev-master",
+        "meridienclube/laravel-vendor": "dev-master"
     },
     "autoload": {
         "psr-4": {
